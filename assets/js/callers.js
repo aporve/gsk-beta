@@ -9,8 +9,8 @@
 (function () {
     setTimeout(() => {
         GlobalVarInit();
-        CallScreen(1);
-        CallScreen(4);
+        // CallScreen(1);
+        // CallScreen(4);
     }, 500);
 })();
 
